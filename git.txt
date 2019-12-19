@@ -1,0 +1,4 @@
+este es el curso de git y githut
+de platzi es un curso de control 
+de versiones para evitar hacer 
+varias carpetas de un solo archivo
