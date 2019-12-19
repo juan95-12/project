@@ -1,0 +1,12 @@
+section h1{
+  color: white;
+  border: red solid 1px;
+  background: blue;
+}
+article{
+  border: black solid 1px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
